@@ -1,6 +1,6 @@
 # Testing The osTicketing System
 <p align="center">
-<img src="https://i.imgur.com/8FKKXT1.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/nJD1Z3S.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle Examples and Testing</h1>
